@@ -2,19 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant at the Bank of Canada | M.Sc. Mathematics & Statistics, University of Ottawa | akih@bank-banque-canada.ca
+subtitle: Research Assistant at the Bank of Canada | M.Sc. Mathematics & Statistics, University of Ottawa
 
 profile:
   align: right
   image: IMG_4385.heic
   image_circular: false
-  more_info: >
-    <p>Research Assistant</p>
-    <p>Bank of Canada</p>
-    <br>
-    <p>M.Sc. Mathematics & Statistics</p>
-    <p>University of Ottawa</p>
-    <p>Ottawa, Ontario, Canada</p>
+  more_info: |
+    <p><strong>Research Assistant</strong><br>
+    Bank of Canada</p>
+    <p><strong>M.Sc. Mathematics &amp; Statistics</strong><br>
+    University of Ottawa<br>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
