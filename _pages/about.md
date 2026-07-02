@@ -7,13 +7,14 @@ subtitle: Research Assistant at the Bank of Canada | M.Sc. Mathematics & Statist
 profile:
   align: right
   image: IMG_4385.heic
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
+    <p>Research Assistant</p>
+    <p>Bank of Canada</p>
+    <br>
     <p>M.Sc. Mathematics & Statistics</p>
     <p>University of Ottawa</p>
     <p>Ottawa, Ontario, Canada</p>
-    <p>Research Assistant</p>
-    <p>Bank of Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm a Research Assistant at the Bank of Canada in the Economic and Financial Research team. I'm also a Master's student at the University of Ottawa where I work with Prof. François-Michel Boire (https://www.boirefm.com). I have an affiliation with the Inter-Math-AI program hosted jointly by the University of Ottawa, the Fields Institute, the Vector Institute, and various other partner institutions (https://intermath.ai).
+Hi! I'm a Research Assistant at the Bank of Canada in the Economic and Financial Research team. I'm also completing my Master's degree at the University of Ottawa where I work with [Prof. François-Michel Boire](https://www.boirefm.com). I have an affiliation with the [Inter-Math-AI](https://intermath.ai) program hosted jointly by the University of Ottawa, the Fields Institute, the Vector Institute, and various other partner institutions.
 
-My broader interests are in statistical computation and numerical methods, machine learning, quantitative finance and financial risk management. I did my HBSc in mathematical finance and statistics at the University of Toronto. 
+My broader interests are in statistical computation and numerical methods, machine learning, quantitative finance and financial risk management. I completed my HBSc in mathematical finance and statistics at the University of Toronto. 
